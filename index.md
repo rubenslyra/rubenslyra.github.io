@@ -1,3 +1,7 @@
 # Rubens Lyra
-<p>rubenslyra.github.io<p>
-Meu Blogue
+  
+##Meu Blogue
+
+Em alguns instantes vou atualizar o blogue.
+
+rubenslyra.github.io
